@@ -77,13 +77,6 @@ The smart 365-days-per-year food subscription that will make you eat healthy aga
 - Average rating: 4.8
 - Number reviews: 441
 
-## 📞 Contact Information
-
-- **Address**: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
-- **Phone**: 415-201-6370
-- **Email**: hello@omnifood.com
-- **Social**: Instagram, Facebook, Twitter
-
 ## 🎨 Brand Information
 
 - **Headline**: A healthy meal delivered to your door, every single day
